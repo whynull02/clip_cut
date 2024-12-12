@@ -1,5 +1,6 @@
 {
     "latest_version": "1.0.2",
-    "program_setting":"True"
-    "updata_message": "이런 문제로 업데이트 되었습니다!"
+    "program_setting":"True",
+    "updata_message": "이런 문제로 업데이트 되었습니다!",
+    "donload_url": "https://www.youtube.com/"
 }
