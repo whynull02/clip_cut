@@ -1,7 +1,7 @@
-<h1 style="padding: unset; border: unset; text-align: center;">
-  <img src="https://github.com/whynull02/clip_app/blob/main/image/clip_cut.png" width="50" height="50" style="display: block; margin-top: 10px; margin-bottom: 
-  <span>ClipCut</span><br>
-  10px;">
+<h1 style="padding: unset; border: unset;">
+    <img src="https://github.com/whynull02/clip_app/blob/main/image/clip_cut.png" width="50" height="50" style=" margin-top: 10px">
+    &nbsp;
+    <span>ClipCut</span>
 </h1>
 
 <br/>
