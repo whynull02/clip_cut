@@ -1,9 +1,9 @@
-<h1 style="padding: unset; border: unset;"><img src="https://github.com/whynull02/clip_app/blob/main/image/clip_cut.png" width="50" height="50">&nbsp;<span>ClipCut</span></h1>
+<h1 style="padding: unset; border: unset;"><img src="https://github.com/whynull02/clip_app/blob/main/image/clip_cut.png">&nbsp;<span>ClipCut</span></h1>
 
 <br/>
 <br/>
 
-##### Preview
+##### 프로그램 화면
 <img src="https://github.com/whynull02/clip_app/blob/main/image/1.png">
 <table>
     <tr>
