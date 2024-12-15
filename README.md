@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://github.com/whynull02/clip_app/blob/main/image/clip_cut.png" width="50%"/>
-  <br>
-</p>
-
-
-##### 클립 다운로더
-[![Latest Release][badge-latest-release]][Releases]
+<h1 style="padding: unset; border: unset;"><img src="https://github.com/whynull02/clip_app/blob/main/image/clip_cut.png" width="50" height="50">&nbsp;<span>ClipCut</span></h1>
 
 <br/>
 <br/>
