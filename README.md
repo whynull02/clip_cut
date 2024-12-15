@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mage/clip_cut.png" width="50%"/>
+  <img src="https://github.com/whynull02/clip_app/blob/main/image/clip_cut.png" width="50%"/>
   <br>
 </p>
 
@@ -11,17 +11,17 @@
 <br/>
 
 ##### Preview
-<img src="mage/1.png">
+<img src="https://github.com/whynull02/clip_app/blob/main/image/1.png">
 <table>
     <tr>
         <td>
-            <img src="mage/2.png">
+            <img src="https://github.com/whynull02/clip_app/blob/main/image/2.png">
         </td>
         <td>
-            <img src="mage/3.png">
+            <img src="https://github.com/whynull02/clip_app/blob/main/image/3.png">
         </td>
         <td>
-            <img src="mage/4.png">
+            <img src="https://github.com/whynull02/clip_app/blob/main/image/4.png">
         </td>
     </tr>
 </table>
