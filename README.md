@@ -1,8 +1,8 @@
 <h1 style="padding: unset; border: unset;">
     <img src="https://github.com/whynull02/clip_app/blob/main/image/clip_cut.png" width="50" height="50">
-    &nbsp;
     <span>ClipCut</span>
 </h1>
+
 
 
 <br/>
