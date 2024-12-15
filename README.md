@@ -1,9 +1,9 @@
-![image](https://github.com/user-attachments/assets/b049d56e-3b9d-4ea7-947f-8312be3ad62f)Clip Cup: YouTube, Twitch, AfreecaTV VOD를 손쉽게 클립 형태로 다운로드!
+
 1. Clip Cup이란?
 Clip Cup은 YouTube, Twitch, AfreecaTV에서 제공하는 VOD 영상을 손쉽게 클립 형태로 다운로드할 수 있는 강력한 도구입니다.
 방송의 하이라이트를 저장하고 싶거나 원하는 순간을 따로 보관하고 싶은 사용자에게 최적화된 프로그램입니다.
 
-![image](https://github.com/user-attachments/assets/12123cee-a5f9-47ee-a204-9709174b5896)
+![image](https://github.com/user-attachments/assets/b049d56e-3b9d-4ea7-947f-8312be3ad62f)
 
 2. 주요 기능
 다중 플랫폼 지원
