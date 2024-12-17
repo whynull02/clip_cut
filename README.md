@@ -7,10 +7,10 @@
 
 <br/>
 <br/>
-##### 문제 발생
+## 문제 발생
 **현재 유튜브 기능에 문제가 있어 패치 중입니다 가급적이면 사용하지 말아주세요**
 
-##### 프로그램 화면
+## 프로그램 화면
 <img src="https://github.com/whynull02/clip_app/blob/main/image/1.png">
 <table>
     <tr>
