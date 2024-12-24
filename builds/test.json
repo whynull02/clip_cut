@@ -1,8 +1,6 @@
 {
     "latest_version": "1.1.0",
     "program_setting": "True",
-    "updata_message": "
-    유튜브 다운로드 싱크 안맞는 거 해결, Ui 전체적으로 변경 했습니다    
-    ",
+    "updata_message": "유튜브 다운로드 싱크 안맞는 거 해결, Ui 전체적으로 변경 했습니다",
     "donload_url": "https://github.com/whynull02/clip_app/releases"
 }
